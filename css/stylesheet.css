@@ -1,14 +1,47 @@
 body{
   font-family: sans-serif;
-  font-size:110%;
+  font-size:100%;
   background-color: #FCF7F8;
-}
+      }
 
 header {
   text-align: center;
-}
+  color:#FCF7F8;
+  background-color: #343330;
+        }
 
 footer {
   background-color: #343330;
   text-align: center;
+  color: white;
+        }
+
+#navbar {
+  color: white;
+  font-weight: bold;
+  background-color: #45462A;
+  width: 20%;
+  padding: 1rem;
+        }
+
+.navlist {
+  list-style-type: none;
+          }
+
+.contacts {
+  list-style: none;
+  padding: 0%;
+}
+
+#profilephoto {
+  width: 15%;
+  height: 15%;
+  border-radius: 50%;
+  border: 3px solid orange;
+}
+
+.icons {
+  width: 3rem;
+  margin: 0.5rem;
+  height: auto;
 }
