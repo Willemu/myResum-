@@ -36,8 +36,8 @@ footer {
 
 #profilephoto {
   display: inline-block; position: relative;
-  width: 100px;
-  height: 100px;
+  width: 125px;
+  height: 125px;
   border-radius: 50%;
   border: 2px solid #D1603D;
                }
@@ -60,10 +60,6 @@ footer {
   width: 80%;
   margin: 1rem;
           } 
-
-#devexperience {
-  padding-left: 2rem;
-                }        
 
 .contacts {
   padding: 1%;
@@ -113,11 +109,7 @@ ul {
   margin-inline-end: 0px;
   padding-inline-start: 40px;
      } 
-table {
- border-spacing: 16px;
- border-style: dotted;
-       } 
    
-.imglink3 {
+.imglink1 {
   text-decoration: none !important;
- }      
+            }      
